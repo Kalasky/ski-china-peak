@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288891709124",
+    "firebase_url": "https://squarepayment-flutter.firebaseio.com",
+    "project_id": "squarepayment-flutter",
+    "storage_bucket": "squarepayment-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288891709124:android:1387ad66edaf6421a1cb91",
+        "android_client_info": {
+          "package_name": "com.rma.skichinapeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288891709124-0m3n0sdhks8ng4ngrbmce27nsst7gf7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZOJH5aXfcOKd9AUBUfIaqFrXc_use7yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288891709124-0m3n0sdhks8ng4ngrbmce27nsst7gf7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
